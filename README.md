@@ -3,13 +3,21 @@ Sistem Informasi Manajemen Kependudukan Dan Bantuan Sosial menggunakan PHP dan M
 
 **fitur yang tersedia :**
  daftar
+ 
  login
+ 
  halaman utama
+ 
  dashboard
+ 
  data kependudukan
+ 
  data kondisi rumah
+ 
  klasifikasi penduduk
+ 
  klasifikasi bantuan
+ 
  control panel
 
  penguna

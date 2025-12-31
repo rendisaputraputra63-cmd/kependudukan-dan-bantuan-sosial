@@ -2,9 +2,8 @@
 Sistem Informasi Manajemen Kependudukan Dan Bantuan Sosial menggunakan PHP dan MySQL serta template menggunakan AdminLTE
 
 **fitur yang tersedia :**
- daftar
- 
- login
+
+ daftar login
  
  halaman utama
  

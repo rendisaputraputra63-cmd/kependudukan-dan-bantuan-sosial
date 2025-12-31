@@ -89,16 +89,5 @@ Manajemen Dusun: Tabel untuk mengelola nama-nama dusun (Sriwangi, Pelita, Petang
 
 
 
-Halaman yang buat webside
-![WhatsApp Image 2025-12-31 at 08 25 16](https://github.com/user-attachments/assets/282c540d-8193-42fe-8be1-bfee25fffe50)
 
 
-
-
-
-
-
-
-
-## Dashboard
-![](preview2.png)
